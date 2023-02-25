@@ -9,7 +9,7 @@ elif (num[1]>=num[0]) and (num[1]>=num[2]):
 else:
     print(f"{num[2]} is greatest number.")
 
-# WAP TO CONVERT DIGITS FROM 0-9 ONLY INTO WORDS.
+# convert 0-9 digits only into word.
 
 numbers = [0,1,2,3,4,5,6,7,8,9]
 s = ''
